@@ -1,16 +1,17 @@
-## Hi there 👋
+🎓 Cybersecurity student passionate about understanding how systems work — and how they break.
+🔐 Strong interest in networking, malware analysis, and system security.
 
-<!--
-**MrAditzu/MrAditzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I work with:
+  *🐍 Python (automation, scripting, security tools)
+  *⚙️ C (low-level programming, memory management)
+  
+🌐 Currently expanding my knowledge in:
+  *📡 Network protocols & traffic analysis
+  *🛠 Vulnerability research
+  *🧬 Malware behavior analysis
+  *🖥 Linux systems
+  *🛡 Secure coding practices
 
-Here are some ideas to get you started:
+🎯 My goal is to build strong offensive and defensive security skills and contribute to creating resilient, secure systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning. Always improving.
